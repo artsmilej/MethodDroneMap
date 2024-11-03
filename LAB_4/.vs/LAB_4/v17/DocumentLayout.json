@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Studies\\\u0415\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\LAB_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{298F923E-AADB-4B4F-A526-1DDC0D4BA663}|LAB_4\\LAB_4.csproj|f:\\studies\\\u0435\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\lab_4\\lab_4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{298F923E-AADB-4B4F-A526-1DDC0D4BA663}|LAB_4\\LAB_4.csproj|solutionrelative:lab_4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298F923E-AADB-4B4F-A526-1DDC0D4BA663}|LAB_4\\LAB_4.csproj|f:\\studies\\\u0435\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\lab_4\\lab_4\\distancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298F923E-AADB-4B4F-A526-1DDC0D4BA663}|LAB_4\\LAB_4.csproj|solutionrelative:lab_4\\distancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298F923E-AADB-4B4F-A526-1DDC0D4BA663}|LAB_4\\LAB_4.csproj|f:\\studies\\\u0435\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\lab_4\\lab_4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298F923E-AADB-4B4F-A526-1DDC0D4BA663}|LAB_4\\LAB_4.csproj|solutionrelative:lab_4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298F923E-AADB-4B4F-A526-1DDC0D4BA663}|LAB_4\\LAB_4.csproj|f:\\studies\\\u0435\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\lab_4\\lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298F923E-AADB-4B4F-A526-1DDC0D4BA663}|LAB_4\\LAB_4.csproj|solutionrelative:lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298F923E-AADB-4B4F-A526-1DDC0D4BA663}|LAB_4\\LAB_4.csproj|f:\\studies\\\u0435\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\lab_4\\lab_4\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298F923E-AADB-4B4F-A526-1DDC0D4BA663}|LAB_4\\LAB_4.csproj|solutionrelative:lab_4\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298F923E-AADB-4B4F-A526-1DDC0D4BA663}|LAB_4\\LAB_4.csproj|f:\\studies\\\u0435\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\lab_4\\lab_4\\drone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298F923E-AADB-4B4F-A526-1DDC0D4BA663}|LAB_4\\LAB_4.csproj|solutionrelative:lab_4\\drone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{298F923E-AADB-4B4F-A526-1DDC0D4BA663}|LAB_4\\LAB_4.csproj|f:\\studies\\\u0435\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\lab_4\\lab_4\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{298F923E-AADB-4B4F-A526-1DDC0D4BA663}|LAB_4\\LAB_4.csproj|solutionrelative:lab_4\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "F:\\Studies\\\u0415\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\LAB_4\\LAB_4\\Enemy.cs",
+              "RelativeDocumentMoniker": "LAB_4\\Enemy.cs",
+              "ToolTip": "F:\\Studies\\\u0415\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\LAB_4\\LAB_4\\Enemy.cs",
+              "RelativeToolTip": "LAB_4\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:46:46.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Drone.cs",
+              "DocumentMoniker": "F:\\Studies\\\u0415\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\LAB_4\\LAB_4\\Drone.cs",
+              "RelativeDocumentMoniker": "LAB_4\\Drone.cs",
+              "ToolTip": "F:\\Studies\\\u0415\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\LAB_4\\LAB_4\\Drone.cs",
+              "RelativeToolTip": "LAB_4\\Drone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:46:06.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "F:\\Studies\\\u0415\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\LAB_4\\LAB_4\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "LAB_4\\MainForm.Designer.cs",
+              "ToolTip": "F:\\Studies\\\u0415\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\LAB_4\\LAB_4\\MainForm.Designer.cs",
+              "RelativeToolTip": "LAB_4\\MainForm.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:45:16.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Studies\\\u0415\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\LAB_4\\LAB_4\\Program.cs",
+              "RelativeDocumentMoniker": "LAB_4\\Program.cs",
+              "ToolTip": "F:\\Studies\\\u0415\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\LAB_4\\LAB_4\\Program.cs",
+              "RelativeToolTip": "LAB_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:41:07.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "F:\\Studies\\\u0415\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\LAB_4\\LAB_4\\MainForm.cs",
+              "RelativeDocumentMoniker": "LAB_4\\MainForm.cs",
+              "ToolTip": "F:\\Studies\\\u0415\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\LAB_4\\LAB_4\\MainForm.cs",
+              "RelativeToolTip": "LAB_4\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:40:36.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DistanceCalculator.cs",
+              "DocumentMoniker": "F:\\Studies\\\u0415\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\LAB_4\\LAB_4\\DistanceCalculator.cs",
+              "RelativeDocumentMoniker": "LAB_4\\DistanceCalculator.cs",
+              "ToolTip": "F:\\Studies\\\u0415\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\LAB_4\\LAB_4\\DistanceCalculator.cs",
+              "RelativeToolTip": "LAB_4\\DistanceCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:48:03.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "F:\\Studies\\\u0415\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\LAB_4\\LAB_4\\MainForm.cs",
+              "RelativeDocumentMoniker": "LAB_4\\MainForm.cs",
+              "ToolTip": "F:\\Studies\\\u0415\u043C\u043F\u0438\u0440\u0438\u0447\u043D\u0456 \u043C\u0435\u0442\u043E\u0434\u0438\\LAB_4\\LAB_4\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "LAB_4\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:36:42.963Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
